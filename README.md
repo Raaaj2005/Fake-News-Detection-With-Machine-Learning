@@ -1,4 +1,4 @@
-# 📰 Fake News Detection with Machine Learning
+# 📰 Fake News Detection With Machine Learning
 
 ## 📖 Overview
 This project tackles the modern challenge of digital misinformation by building a Natural Language Processing (NLP) model to identify fake news. The notebook walks through the complete text analytics pipeline—from importing and extensively cleaning text data to visualizing word frequencies with word clouds, and finally training a Recurrent Neural Network (RNN) to classify articles as real or fake.
